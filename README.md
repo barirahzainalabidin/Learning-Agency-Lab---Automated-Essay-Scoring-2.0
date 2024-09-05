@@ -1,5 +1,4 @@
-# Learning-Agency-Lab-Automated-Essay-Scoring-2.0 Using Cohen Kappa Metric
-
+# Learning-Agency-Lab-Automated-Essay-Scoring-2.0
 
 
 # Dataset 
@@ -7,7 +6,7 @@
 - https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2
 
 
-# Notebook Solutions
+# Notebook Solutions & Cohen Kappa Metric
 
 # NLP AI Model in kaggle
 
@@ -23,6 +22,11 @@ Best Score : 0.760 - https://www.kaggle.com/code/barirahzainal/my-project-learni
 Best Score : 0.759 - https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-final-13
 
 Best Score : 0.754 - https://www.kaggle.com/code/barirahzainal/my-learning-agency-lab-subs-8 (keras/tensorflow)
+
+
+# Machine Learning Canvas Lists :
+
+
 
 Best Score : 0.662 - https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-subs-7 (scikit-learn)
 
