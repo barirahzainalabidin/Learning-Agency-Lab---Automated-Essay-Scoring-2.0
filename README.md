@@ -8,7 +8,7 @@
 
 # Notebook Solutions & Cohen Kappa Metric
 
-# Train using BERT & DEBERTA Model 
+# Train using BERT & DEBERTA Models
 
 Best Score : 0.790 - https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-sub-3 (keras)
 
