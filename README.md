@@ -24,7 +24,3 @@ Best Score : 0.760 - https://www.kaggle.com/code/barirahzainal/my-project-learni
 Best Score : 0.759 - https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-final-13
 
 Best Score : 0.662 - https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-subs-7 (scikit-learn)
-
-
-
-# Machine Learning Canvas Lists :
